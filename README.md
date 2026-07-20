@@ -34,19 +34,19 @@ Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Business I
 
 #### Certificações
 
-• Intro to Machine Learning (Kaggle, 2026)
-• Intermediate Machine Learning (Kaggle, 2026)
-• Python para Dados: Primeiros Passos (Alura, 2026)
-• Python para Dados: Funções, Estruturas de Dados e Exceções (Alura, 2026)
-• Pensamento Computacional: Fundamentos da Computação e Lógica de Programação (Alura, 2026)
-• Introdução à Análise de Dados – Microsoft Power BI (Bradesco, 2025)
-• Preparando Dados para Análise – Microsoft Power BI (Bradesco, 2025)
-• Git e GitHub: Compartilhando e Colaborando em Projetos (Alura, 2026)
-• Gestão Ágil de Projetos com SCRUM (IFRS, 2025)
-• Scrum: Agilidade em seu Projeto (Alura, 2026)
-• Academia do Hardware – Full Stack (Hotmart, 2022)
-• Lei Geral de Proteção de Dados – LGPD (Bradesco, 2021)
-• Desenvolvimento pessoal e produtividade – Alura, 2026: Oratória, Inteligência Emocional, Networking,
+- Intro to Machine Learning (Kaggle, 2026)
+- Intermediate Machine Learning (Kaggle, 2026)
+- Python para Dados: Primeiros Passos (Alura, 2026)
+- Python para Dados: Funções, Estruturas de Dados e Exceções (Alura, 2026)
+- Pensamento Computacional: Fundamentos da Computação e Lógica de Programação (Alura, 2026)
+- Introdução à Análise de Dados – Microsoft Power BI (Bradesco, 2025)
+- Preparando Dados para Análise – Microsoft Power BI (Bradesco, 2025)
+- Git e GitHub: Compartilhando e Colaborando em Projetos (Alura, 2026)
+- Gestão Ágil de Projetos com SCRUM (IFRS, 2025)
+- Scrum: Agilidade em seu Projeto (Alura, 2026)
+- Academia do Hardware – Full Stack (Hotmart, 2022)
+- Lei Geral de Proteção de Dados – LGPD (Bradesco, 2021)
+- Desenvolvimento pessoal e produtividade – Alura, 2026: Oratória, Inteligência Emocional, Networking,
 Aprender a Aprender, Técnicas de Aprendizage
 
 #### Contato
