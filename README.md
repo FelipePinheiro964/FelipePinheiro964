@@ -6,7 +6,7 @@ Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Business I
 
 - Cursando o último semestre do curso, com ênfase em Data Analytics
 - Mentorado por Guilherme Frates Neves por 7 meses, com foco em melhorar a minha tomada de decisão e desing dos dashboards
-- Buscando oportunidades de estágio ou início de carreira em Dados/BI, região de Porto Alegre
+- Buscando oportunidades de estágio ou início de carreira em Dados/BI.
 - Interesse em Machine Learning aplicado, automação e construção de ferramentas próprias
 - Inglês: leitura e escrita técnica
 
@@ -34,14 +34,20 @@ Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Business I
 
 #### Certificações
 
-- Intro to Machine Learning — Kaggle, 2026
-- Intermediate Machine Learning — Kaggle, 2026
-- Python para Dados: Primeiros Passos — Alura, 2026
-- Python para Dados: Funções, Estruturas de Dados e Exceções — Alura, 2026
-- Introdução à Análise de Dados (Microsoft Power BI) — Bradesco, 2025
-- Preparando Dados para Análise (Microsoft Power BI) — Bradesco, 2025
-- Lei Geral de Proteção de Dados (LGPD) — Bradesco, 2021
-- Git e GitHub: Compartilhando e Colaborando em Projetos — Alura, 2026
+• Intro to Machine Learning (Kaggle, 2026)
+• Intermediate Machine Learning (Kaggle, 2026)
+• Python para Dados: Primeiros Passos (Alura, 2026)
+• Python para Dados: Funções, Estruturas de Dados e Exceções (Alura, 2026)
+• Pensamento Computacional: Fundamentos da Computação e Lógica de Programação (Alura, 2026)
+• Introdução à Análise de Dados – Microsoft Power BI (Bradesco, 2025)
+• Preparando Dados para Análise – Microsoft Power BI (Bradesco, 2025)
+• Git e GitHub: Compartilhando e Colaborando em Projetos (Alura, 2026)
+• Gestão Ágil de Projetos com SCRUM (IFRS, 2025)
+• Scrum: Agilidade em seu Projeto (Alura, 2026)
+• Academia do Hardware – Full Stack (Hotmart, 2022)
+• Lei Geral de Proteção de Dados – LGPD (Bradesco, 2021)
+• Desenvolvimento pessoal e produtividade – Alura, 2026: Oratória, Inteligência Emocional, Networking,
+Aprender a Aprender, Técnicas de Aprendizage
 
 #### Contato
 
