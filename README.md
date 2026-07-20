@@ -2,9 +2,10 @@
 
 **Analista de Dados | BI**
 
-Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados e Business Intelligence.
+Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Business Intelligence, Machine Learning e Data Analytics.
 
 - Cursando o último semestre do curso, com ênfase em Data Analytics
+- Mentorado por Guilherme Frates Neves por 7 meses, com foco em melhorar a minha tomada de decisão e desing dos dashboards
 - Buscando oportunidades de estágio ou início de carreira em Dados/BI, região de Porto Alegre
 - Interesse em Machine Learning aplicado, automação e construção de ferramentas próprias
 - Inglês: leitura e escrita técnica
@@ -41,15 +42,6 @@ Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados e Business 
 - Preparando Dados para Análise (Microsoft Power BI) — Bradesco, 2025
 - Lei Geral de Proteção de Dados (LGPD) — Bradesco, 2021
 - Git e GitHub: Compartilhando e Colaborando em Projetos — Alura, 2026
-
-#### Estatísticas
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=FelipePinheiro964&show_icons=true&hide_title=true&count_private=false" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePinheiro964&layout=compact&hide_title=true" /></td>
-</tr>
-</table>
 
 #### Contato
 
