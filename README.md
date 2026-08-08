@@ -2,7 +2,7 @@
 
 **Analista de Dados | BI**
 
-Estudante de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Business Intelligence, Machine Learning e Data Analytics.
+Profissional de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Business Intelligence, Machine Learning e Data Analytics.
 
 - Cursando o último semestre do curso, com ênfase em Data Analytics
 - Mentorado por Guilherme Frates Neves por 7 meses, com foco em melhorar a minha tomada de decisão e desing dos dashboards
