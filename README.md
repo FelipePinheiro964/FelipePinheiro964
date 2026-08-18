@@ -30,7 +30,6 @@ Profissional de Tecnologia em Banco de Dados (PUCRS), com foco em Dados, Busines
 - **Análise Preditiva de Vendas — Aidron** — Modelagem de previsão de vendas sobre 42 meses de histórico, com diagnóstico de performance e apresentação executiva dos resultados.
 - **Geração Caldeira — Alura** — Coleta, limpeza, transformação e visualização de dados; dashboards e insights estratégicos em Python, SQL e Power BI.
 - **Bot de Extração de Leads B2B** — Automação em Python (Google Places API + rastreamento de sites) para captura de e-mails, WhatsApp e redes sociais de empresas.
-- **Portfólio Pessoal** — Site em Next.js e TypeScript com estética editorial de visualização de dados; inclui um guia de segurança para sites gerados por IA como estudo de caso.
 
 #### Certificações
 
