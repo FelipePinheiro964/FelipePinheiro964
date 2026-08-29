@@ -61,5 +61,8 @@ Aprender a Aprender, Técnicas de Aprendizagem
 #### Contato
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white): https://www.linkedin.com/in/felipe-fossa
+
 ![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white): fel.felipinheiro@gmail.com
-[E-mail institucional](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge): felipe.fossa@edu.pucrs.br
+
+![Outlook](https://img.shields.io/badge/Outlook-Email-0078D4?logo=microsoftoutlook&logoColor=white): felipe.fossa@edu.pucrs.br
+
